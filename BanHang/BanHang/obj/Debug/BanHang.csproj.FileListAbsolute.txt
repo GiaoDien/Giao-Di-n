@@ -1,0 +1,12 @@
+T:\PTUDGD\BanHang\BanHang\bin\Debug\BanHang.exe.config
+T:\PTUDGD\BanHang\BanHang\bin\Debug\BanHang.exe
+T:\PTUDGD\BanHang\BanHang\bin\Debug\BanHang.pdb
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.BanHang.resources
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.Form1.resources
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.Cache
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.exe
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.pdb
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources

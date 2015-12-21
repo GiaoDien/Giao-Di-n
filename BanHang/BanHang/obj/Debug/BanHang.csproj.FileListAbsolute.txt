@@ -10,3 +10,4 @@ T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.exe
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.pdb
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
+T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources

@@ -74,7 +74,7 @@
             this.banHangToolStripMenuItem.Name = "banHangToolStripMenuItem";
             this.banHangToolStripMenuItem.Size = new System.Drawing.Size(71, 20);
             this.banHangToolStripMenuItem.Text = "Bán Hàng";
-            this.banHangToolStripMenuItem.Click += new System.EventHandler(this.bánHàngToolStripMenuItem_Click);
+            this.banHangToolStripMenuItem.Click += new System.EventHandler(this.banHangToolStripMenuItem_Click);
             // 
             // kiểmHàngToolStripMenuItem
             // 
@@ -197,9 +197,10 @@
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 27);
+            this.groupBox1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.groupBox1.Location = new System.Drawing.Point(0, 24);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(785, 48);
+            this.groupBox1.Size = new System.Drawing.Size(817, 48);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thao Tác";

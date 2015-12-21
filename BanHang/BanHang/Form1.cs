@@ -16,14 +16,8 @@ namespace BanHang
         {
             InitializeComponent();
         }
-        private void NhomhanghoaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            BanHang frm = new BanHang();
-            frm.MdiParent = this;
-            frm.Show();
-        }
 
-        private void bánHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        private void banHangToolStripMenuItem_Click(object sender, EventArgs e)
         {
             BanHang frm = new BanHang();
             frm.MdiParent = this;

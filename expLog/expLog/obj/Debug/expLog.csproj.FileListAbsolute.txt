@@ -1,7 +1,0 @@
-T:\PTUDGD\expLog\expLog\bin\Debug\expLog.exe.config
-T:\PTUDGD\expLog\expLog\bin\Debug\expLog.exe
-T:\PTUDGD\expLog\expLog\bin\Debug\expLog.pdb
-T:\PTUDGD\expLog\expLog\bin\Debug\log4net.dll
-T:\PTUDGD\expLog\expLog\obj\Debug\expLog.csprojResolveAssemblyReference.cache
-T:\PTUDGD\expLog\expLog\obj\Debug\expLog.exe
-T:\PTUDGD\expLog\expLog\obj\Debug\expLog.pdb

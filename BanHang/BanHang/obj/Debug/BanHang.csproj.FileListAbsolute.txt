@@ -11,6 +11,7 @@ T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.pdb
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources
+<<<<<<< HEAD
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\bin\Debug\BanHang.exe.config
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.exe
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.pdb
@@ -27,3 +28,5 @@ E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonBanHang.r
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonNhapKho.resources
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonXuatKho.resources
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b

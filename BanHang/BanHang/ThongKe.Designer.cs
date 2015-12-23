@@ -36,8 +36,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.label3 = new System.Windows.Forms.Label();
             this.monthCalendar1 = new System.Windows.Forms.MonthCalendar();
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -49,9 +52,15 @@
             this.soluongban,
             this.soluongnhap,
             this.tongtien});
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(12, 104);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(443, 291);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(12, 97);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(443, 270);
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
             this.dataGridView1.TabIndex = 0;
             // 
             // mavach
@@ -77,18 +86,31 @@
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(476, 301);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(104, 19);
+=======
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(190, 380);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(107, 20);
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
             this.label1.TabIndex = 1;
             this.label1.Text = "Doanh Thu: ";
             // 
             // button1
             // 
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(480, 370);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 25);
+=======
+            this.button1.Location = new System.Drawing.Point(27, 380);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
             this.button1.TabIndex = 2;
             this.button1.Text = "Print";
             this.button1.UseVisualStyleBackColor = true;
@@ -96,6 +118,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
+<<<<<<< HEAD
             this.label2.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(158, 31);
             this.label2.Name = "label2";
@@ -126,6 +149,20 @@
             this.ClientSize = new System.Drawing.Size(724, 404);
             this.Controls.Add(this.monthCalendar1);
             this.Controls.Add(this.label3);
+=======
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(60, 34);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(326, 25);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "THỐNG KÊ SP + DOANH THU";
+            // 
+            // ThongKe
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(459, 431);
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
@@ -148,7 +185,10 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label2;
+<<<<<<< HEAD
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.MonthCalendar monthCalendar1;
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
     }
 }

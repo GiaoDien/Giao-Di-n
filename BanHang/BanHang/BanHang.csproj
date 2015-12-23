@@ -56,6 +56,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="HoaDonBanHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +75,8 @@
     <Compile Include="HoaDonXuatKho.Designer.cs">
       <DependentUpon>HoaDonXuatKho.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
     <Compile Include="KhoCapNhat.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -100,6 +103,7 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="HoaDonBanHang.resx">
       <DependentUpon>HoaDonBanHang.cs</DependentUpon>
     </EmbeddedResource>
@@ -109,6 +113,8 @@
     <EmbeddedResource Include="HoaDonXuatKho.resx">
       <DependentUpon>HoaDonXuatKho.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
     <EmbeddedResource Include="KhoCapNhat.resx">
       <DependentUpon>KhoCapNhat.cs</DependentUpon>
     </EmbeddedResource>

@@ -23,6 +23,7 @@ namespace BanHang
             frm.MdiParent = this;
             frm.Show();
         }
+<<<<<<< HEAD
         private void thongKeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             ThongKe frm = new ThongKe();
@@ -42,6 +43,8 @@ namespace BanHang
             khogoc.MdiParent = this;
             khogoc.Show();
         }
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
 
 
  

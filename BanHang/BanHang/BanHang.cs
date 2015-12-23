@@ -16,6 +16,7 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -23,5 +24,7 @@ namespace BanHang
            // hoadon.MdiParent = this;
             hoadon.Show();
         }
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
     }
 }

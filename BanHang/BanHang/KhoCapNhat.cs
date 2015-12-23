@@ -16,11 +16,14 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void xuấtHóaĐơnKhoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             HoaDonXuatKho xuatkho = new HoaDonXuatKho();
             xuatkho.Show();
         }
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
     }
 }

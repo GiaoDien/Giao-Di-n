@@ -17,12 +17,17 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
 
         private void toolStripButton4_Click(object sender, EventArgs e)
         {
             HoaDonXuatKho xuatkho = new HoaDonXuatKho();
             xuatkho.Show();
         }
+<<<<<<< HEAD
 
 
         private void KhoGoc_Load(object sender, EventArgs e)
@@ -63,5 +68,9 @@ namespace BanHang
         }
 
 
+=======
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
     }
 }

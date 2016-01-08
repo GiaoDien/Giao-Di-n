@@ -16,11 +16,14 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         Random rd = new Random();
         private void HoaDonXuatKho_Load(object sender, EventArgs e)
         {
             lblMahd.Text = "HĐNK" + rd.Next(1, 2000).ToString();
             lblNgay.Text = DateTime.Today.ToString();
         }
+=======
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
     }
 }

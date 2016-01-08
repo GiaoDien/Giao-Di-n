@@ -11,6 +11,10 @@ T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.pdb
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\bin\Debug\BanHang.exe.config
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.exe
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.pdb
@@ -27,6 +31,7 @@ E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonBanHang.r
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonNhapKho.resources
 E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonXuatKho.resources
+<<<<<<< HEAD
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\BanHang.exe.config
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.exe
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.pdb
@@ -47,3 +52,7 @@ C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.ThongKe.
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.Cache
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DatabaseLib.dll
 C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DatabaseLib.pdb
+=======
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c

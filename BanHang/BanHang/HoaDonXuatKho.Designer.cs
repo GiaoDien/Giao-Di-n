@@ -41,18 +41,27 @@
             this.ThanhTien = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.lblMahd = new System.Windows.Forms.Label();
             this.lblNgay = new System.Windows.Forms.Label();
+=======
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(273, 71);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(184, 20);
+=======
+            this.label1.Location = new System.Drawing.Point(273, 77);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(112, 14);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.label1.TabIndex = 0;
             this.label1.Text = "HÓA ĐƠN XUẤT KHO";
             // 
@@ -60,7 +69,11 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(156, 8);
+=======
+            this.label2.Location = new System.Drawing.Point(156, 9);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(352, 48);
             this.label2.TabIndex = 1;
@@ -70,18 +83,30 @@
             // label4
             // 
             this.label4.AutoSize = true;
+<<<<<<< HEAD
             this.label4.Location = new System.Drawing.Point(388, 99);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(35, 13);
+=======
+            this.label4.Location = new System.Drawing.Point(388, 107);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(35, 14);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.label4.TabIndex = 5;
             this.label4.Text = "Ngày:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(12, 99);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 13);
+=======
+            this.label3.Location = new System.Drawing.Point(12, 107);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(67, 14);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.label3.TabIndex = 4;
             this.label3.Text = "Mã hóa đơn:";
             // 
@@ -96,9 +121,15 @@
             this.Size,
             this.Soluong,
             this.ThanhTien});
+<<<<<<< HEAD
             this.dataGridView1.Location = new System.Drawing.Point(12, 131);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(637, 201);
+=======
+            this.dataGridView1.Location = new System.Drawing.Point(12, 141);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(637, 216);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.dataGridView1.TabIndex = 6;
             // 
             // Mavach
@@ -134,15 +165,22 @@
             // label5
             // 
             this.label5.AutoSize = true;
+<<<<<<< HEAD
             this.label5.Location = new System.Drawing.Point(12, 357);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(85, 13);
+=======
+            this.label5.Location = new System.Drawing.Point(12, 384);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(84, 14);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.label5.TabIndex = 7;
             this.label5.Text = "Tổng thành tiền:";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
+<<<<<<< HEAD
             this.label6.Location = new System.Drawing.Point(493, 357);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(55, 13);
@@ -174,6 +212,19 @@
             this.ClientSize = new System.Drawing.Size(669, 404);
             this.Controls.Add(this.lblNgay);
             this.Controls.Add(this.lblMahd);
+=======
+            this.label6.Location = new System.Drawing.Point(493, 384);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(56, 14);
+            this.label6.TabIndex = 8;
+            this.label6.Text = "Người lập:";
+            // 
+            // HoaDonXuatKho
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(669, 435);
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.dataGridView1);
@@ -183,7 +234,10 @@
             this.Controls.Add(this.label1);
             this.Name = "HoaDonXuatKho";
             this.Text = "HoaDonXuatKho";
+<<<<<<< HEAD
             this.Load += new System.EventHandler(this.HoaDonXuatKho_Load);
+=======
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -205,7 +259,10 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn ThanhTien;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+<<<<<<< HEAD
         private System.Windows.Forms.Label lblMahd;
         private System.Windows.Forms.Label lblNgay;
+=======
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
     }
 }

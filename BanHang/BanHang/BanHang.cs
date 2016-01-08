@@ -19,14 +19,20 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         
         
+=======
+<<<<<<< HEAD
+
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
         private void button3_Click(object sender, EventArgs e)
         {
             HoaDonBanHang hoadon = new HoaDonBanHang();
            // hoadon.MdiParent = this;
             hoadon.Show();
         }
+<<<<<<< HEAD
 
         bool BUT = true; // Ktriem da chọn Loại Sp chưa
         private void cbSP_SelectedIndexChanged(object sender, EventArgs e)
@@ -145,5 +151,9 @@ namespace BanHang
 
         }
         
+=======
+=======
+>>>>>>> ecd4de2248e840fef2355742d63529bc5e5aea3b
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
     }
 }

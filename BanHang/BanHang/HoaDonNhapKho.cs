@@ -16,6 +16,7 @@ namespace BanHang
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
         Random rd = new Random();
         private void HoaDonNhapKho_Load(object sender, EventArgs e)
         {
@@ -24,5 +25,7 @@ namespace BanHang
             lblNgay.Text = DateTime.Today.ToString();
 
         }
+=======
+>>>>>>> 95c9307d8cfe968163844108b14ef33679d62c9c
     }
 }

@@ -32,7 +32,6 @@
             this.cậpNhậtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.phụKiệnToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label1 = new System.Windows.Forms.Label();
             this.mavach = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.thuonghieu = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.loai = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -40,6 +39,8 @@
             this.soluongconlai = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.giaban = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tinhtrang = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label1 = new System.Windows.Forms.Label();
+            this.xuấtHóaĐơnKhoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -48,7 +49,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.cậpNhậtToolStripMenuItem,
-            this.phụKiệnToolStripMenuItem});
+            this.phụKiệnToolStripMenuItem,
+            this.xuấtHóaĐơnKhoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(641, 24);
@@ -78,21 +80,10 @@
             this.soluongconlai,
             this.giaban,
             this.tinhtrang});
-            this.dataGridView1.Location = new System.Drawing.Point(0, 97);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 104);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(632, 293);
+            this.dataGridView1.Size = new System.Drawing.Size(632, 316);
             this.dataGridView1.TabIndex = 1;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Gray;
-            this.label1.Location = new System.Drawing.Point(187, 43);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(244, 33);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "KHO CẬP NHẬT";
             // 
             // mavach
             // 
@@ -132,11 +123,29 @@
             this.tinhtrang.Name = "tinhtrang";
             this.tinhtrang.Width = 70;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Arial", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.Gray;
+            this.label1.Location = new System.Drawing.Point(187, 46);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(232, 34);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "KHO CẬP NHẬT";
+            // 
+            // xuấtHóaĐơnKhoToolStripMenuItem
+            // 
+            this.xuấtHóaĐơnKhoToolStripMenuItem.Name = "xuấtHóaĐơnKhoToolStripMenuItem";
+            this.xuấtHóaĐơnKhoToolStripMenuItem.Size = new System.Drawing.Size(113, 20);
+            this.xuấtHóaĐơnKhoToolStripMenuItem.Text = "Xuất hóa đơn kho";
+            this.xuấtHóaĐơnKhoToolStripMenuItem.Click += new System.EventHandler(this.xuấtHóaĐơnKhoToolStripMenuItem_Click);
+            // 
             // KhoCapNhat
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(641, 402);
+            this.ClientSize = new System.Drawing.Size(641, 433);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.menuStrip1);
@@ -165,5 +174,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn giaban;
         private System.Windows.Forms.DataGridViewTextBoxColumn tinhtrang;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ToolStripMenuItem xuấtHóaĐơnKhoToolStripMenuItem;
     }
 }

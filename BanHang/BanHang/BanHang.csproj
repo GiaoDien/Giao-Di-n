@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="DataAccess">
+      <HintPath>..\DataAccess\bin\Debug\DataAccess.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -50,11 +53,30 @@
     <Compile Include="BanHang.Designer.cs">
       <DependentUpon>BanHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="BHandHDKH.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDonBanHang.Designer.cs">
+      <DependentUpon>HoaDonBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDonNhapKho.Designer.cs">
+      <DependentUpon>HoaDonNhapKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDonXuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDonXuatKho.Designer.cs">
+      <DependentUpon>HoaDonXuatKho.cs</DependentUpon>
     </Compile>
     <Compile Include="KhoCapNhat.cs">
       <SubType>Form</SubType>
@@ -82,6 +104,15 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonBanHang.resx">
+      <DependentUpon>HoaDonBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonNhapKho.resx">
+      <DependentUpon>HoaDonNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDonXuatKho.resx">
+      <DependentUpon>HoaDonXuatKho.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="KhoCapNhat.resx">
       <DependentUpon>KhoCapNhat.cs</DependentUpon>
     </EmbeddedResource>
@@ -100,6 +131,8 @@
     <EmbeddedResource Include="ThongKe.resx">
       <DependentUpon>ThongKe.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="Properties\DataSources\DataAccess.tblSanPham.datasource" />
+    <None Include="Properties\DataSources\DataAccess.tblThongTinSP.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

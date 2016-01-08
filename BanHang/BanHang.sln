@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanHang", "BanHang\BanHang.csproj", "{FEB7C6A2-B102-4E1D-853D-11715DE2C69F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{41D09B70-D356-4544-A66F-2A1D0064188B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLib", "DatabaseLib\DatabaseLib.csproj", "{FB964CD1-2430-4EBA-85C9-1A65E2D888B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{FEB7C6A2-B102-4E1D-853D-11715DE2C69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB7C6A2-B102-4E1D-853D-11715DE2C69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEB7C6A2-B102-4E1D-853D-11715DE2C69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D09B70-D356-4544-A66F-2A1D0064188B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D09B70-D356-4544-A66F-2A1D0064188B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D09B70-D356-4544-A66F-2A1D0064188B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D09B70-D356-4544-A66F-2A1D0064188B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB964CD1-2430-4EBA-85C9-1A65E2D888B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB964CD1-2430-4EBA-85C9-1A65E2D888B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB964CD1-2430-4EBA-85C9-1A65E2D888B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB964CD1-2430-4EBA-85C9-1A65E2D888B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

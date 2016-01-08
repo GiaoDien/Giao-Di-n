@@ -11,3 +11,39 @@ T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.pdb
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
 T:\PTUDGD\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\bin\Debug\BanHang.exe.config
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.exe
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.pdb
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\bin\Debug\BanHang.exe
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\bin\Debug\BanHang.pdb
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.BanHang.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.Form1.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.Cache
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonBanHang.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonNhapKho.resources
+E:\Desktop\GiaoDien\ShaleShale\BanHang\BanHang\obj\Debug\BanHang.HoaDonXuatKho.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\BanHang.exe.config
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.exe
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\BanHang.exe
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\BanHang.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DataAccess.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DataAccess.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.csprojResolveAssemblyReference.cache
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.BanHang.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.Form1.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.HoaDonBanHang.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.HoaDonNhapKho.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.HoaDonXuatKho.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.KhoCapNhat.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.KhoGoc.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.Properties.Resources.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.ThongKe.resources
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\obj\Debug\BanHang.csproj.GenerateResource.Cache
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DatabaseLib.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\BanHang\bin\Debug\DatabaseLib.pdb

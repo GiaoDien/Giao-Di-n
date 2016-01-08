@@ -23,6 +23,25 @@ namespace BanHang
             frm.MdiParent = this;
             frm.Show();
         }
+        private void thongKeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ThongKe frm = new ThongKe();
+            frm.MdiParent = this;
+            frm.Show();
+        }
+        private void cậpNhậtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            KhoCapNhat khocn = new KhoCapNhat();
+            khocn.MdiParent = this;
+            khocn.Show();
+        }
+
+        private void gốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            KhoGoc khogoc = new KhoGoc();
+            khogoc.MdiParent = this;
+            khogoc.Show();
+        }
 
 
  

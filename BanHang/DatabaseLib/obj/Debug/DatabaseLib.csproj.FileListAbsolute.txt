@@ -1,0 +1,4 @@
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DatabaseLib\obj\Debug\DatabaseLib.pdb

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DataAccess;
 
 namespace BanHang
 {
@@ -16,5 +17,51 @@ namespace BanHang
         {
             InitializeComponent();
         }
+
+        private void toolStripButton4_Click(object sender, EventArgs e)
+        {
+            HoaDonXuatKho xuatkho = new HoaDonXuatKho();
+            xuatkho.Show();
+        }
+
+
+        private void KhoGoc_Load(object sender, EventArgs e)
+        {
+            KhoGocdataGridView1.DataSource = Model.GettblThongvaSPItems(); 
+        }
+
+        private void GiayMenuItem_Click(object sender, EventArgs e)
+        {
+            KhoGocdataGridView1.DataSource = Model.GettblThongvaSPItems(); 
+        }
+
+        private void PhuKienMenuItem_Click(object sender, EventArgs e)
+        {
+            KhoGocdataGridView1.DataSource = Model.GettblThongvaSPPKItems();
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+         /*  var cur = KhoGocdataGridView1.DataSource as tblThongandSP;
+         //  var cur1 = KhoGocdataGridView1.DataSource as tblThongTinSP;
+
+           try
+           {
+               Model.DeleteKhoGoc(cur);
+               Model.DeleteKhoGoc1(cur);
+           }
+           catch (Exception ex) { MessageBox.Show(ex.Message); };
+*/        }
+
+        private void KhoGocdataGridView1_SelectionChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                KhoGocdataGridView1.CurrentRow.Selected = true; //dữ liệu đuợc chọn cả dòng
+            }
+            catch { }
+        }
+
+
     }
 }

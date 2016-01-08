@@ -1,0 +1,7 @@
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\bin\Debug\DatabaseLib.dll
+C:\Users\trang PC\Desktop\log4net\new\BanHang\DataAccess\bin\Debug\DatabaseLib.pdb
